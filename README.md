@@ -1,4 +1,4 @@
-# CollegeProject
+# LoginHomePage
 
 Login validation added
 
